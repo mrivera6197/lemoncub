@@ -1,2 +1,2 @@
 # lemoncub
-portfolio website
+artist portfolio
